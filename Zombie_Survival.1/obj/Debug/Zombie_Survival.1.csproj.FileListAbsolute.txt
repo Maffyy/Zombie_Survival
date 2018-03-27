@@ -1,0 +1,16 @@
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\bin\Debug\Zombie_Survival.1.exe.config
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\bin\Debug\Zombie_Survival.1.exe
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\bin\Debug\Zombie_Survival.1.pdb
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival.1.csprojResolveAssemblyReference.cache
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival._1.Properties.Resources.resources
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival.1.csproj.GenerateResource.Cache
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival.1.exe
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival.1.pdb
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Interop.MediaPlayer.dll
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Interop.WMLSS.dll
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Interop.WMPDXMLib.dll
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Interop.WMPLauncher.dll
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Interop.WMPLib.dll
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival.1.csproj.ResolveComReference.cache
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival._1.Form2.resources
+d:\dokumenty\visual studio 2015\Projects\Zombie_Survival.1\Zombie_Survival.1\obj\Debug\Zombie_Survival._1.Form1.resources
